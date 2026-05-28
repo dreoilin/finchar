@@ -1,4 +1,4 @@
-<h3 align="center">pygmid</h3>
+<h1 align="center">finchar</h1>
 
 ## Table of contents
 

@@ -1,0 +1,16 @@
+*.pyc
+*.log
+dist/
+__pycache__
+build/
+/MATLAB
+src/**/*.png
+.venv
+venv
+pygmid.egg-info
+.pytest_cache/
+.vscode/
+sweep.*/
+*.pkl
+*.scs
+config.cfg
